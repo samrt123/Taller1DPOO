@@ -36,7 +36,7 @@ public class Empleado
     }
 
     /**
-     * Aumenta la cantidad de dinero que tiene el empleado
+     * Aumenta la cantidad de dinero que tiene el empleado 
      * @param dinero La cantidad de dinero que el empleado recibió
      */
     public void agregarDinero( int dinero )
