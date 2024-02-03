@@ -1,0 +1,13 @@
+tipo:Tipo C:14000:50.0
+tipo:Tipo B:9000:199.94444444444446
+tipo:Tipo A:10000:100.0
+tipo:Tipo D:9800:69.0
+surtidor:Samuel:Tipo C:0.0:Tipo B:0.05555555555555555:Tipo A:0.0:Tipo D:1.0
+surtidor:Andres:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:20.0
+surtidor:Carlitos:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:0.0
+surtidor:Laura:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:0.0
+empleado:Carlitos:0
+empleado:Samuel:10300
+empleado:Andres:196000
+empleado:Laura:0
+empleado:Michael:0
